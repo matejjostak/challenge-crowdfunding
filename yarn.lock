@@ -4344,12 +4344,16 @@ __metadata:
     "@scaffold-ui/components": "npm:^0.1.12"
     "@scaffold-ui/debug-contracts": "npm:^0.1.11"
     "@scaffold-ui/hooks": "npm:^0.1.8"
+    "@solana/kit": "npm:^5.1.0"
     "@tailwindcss/postcss": "npm:4.2.4"
     "@tanstack/react-query": "npm:~5.100.5"
     "@trivago/prettier-plugin-sort-imports": "npm:~6.0.2"
     "@types/humanize-duration": "npm:^3"
     "@types/node": "npm:~18.19.130"
     "@types/react": "npm:~19.2.14"
+    "@x402/core": "npm:^2.28.0"
+    "@x402/evm": "npm:^2.28.0"
+    "@x402/svm": "npm:^2.28.0"
     abitype: "npm:1.2.4"
     bgipfs: "npm:~0.0.18"
     blo: "npm:~2.0.0"
@@ -4958,7 +4962,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@solana/kit@npm:^5.5.1":
+"@solana/kit@npm:^5.1.0, @solana/kit@npm:^5.5.1":
   version: 5.5.1
   resolution: "@solana/kit@npm:5.5.1"
   dependencies:
