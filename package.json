@@ -60,5 +60,10 @@
   "packageManager": "yarn@4.13.0",
   "engines": {
     "node": ">=22.10.0"
+  },
+  "dependencies": {
+    "@x402/core": "^2.28.0",
+    "@x402/evm": "^2.28.0",
+    "@x402/svm": "^2.28.0"
   }
 }
